@@ -1,0 +1,18 @@
+@media (max-width: 768px) {
+    .carousel-item{
+        .card{
+            width: 75%;
+            margin-left: -18%;
+            .course-card{
+                display: flex;
+                .course-image{
+                    width: 30%;
+                    
+                }
+                .course-info{
+                    width: 70%;
+                }
+            }
+        }
+    }
+}
